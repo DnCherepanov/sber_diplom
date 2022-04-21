@@ -1,0 +1,2 @@
+# crontab -e
+0 5 * * * usr/bin/python s_29/main.py
